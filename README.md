@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SumitRaut2003/leetcode/tree/master/0069-sqrtx) |
+| [2383-add-two-integers](https://github.com/SumitRaut2003/leetcode/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
